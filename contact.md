@@ -17,4 +17,11 @@ If you'd like to send a message directly through this site, please fill out the 
   <label for="message">Message:</label><br>  
   <textarea id="message" name="message"></textarea><br>  
   <input type="submit" value="Send">  
-</form>
+</form>  
+
+You can also follow me on social media:  
+
+- Instagram: [chris.bridges.e](https://instagram.com/chris.bridges.e)  
+- GitHub: [jimbob6783](https://github.com/jimbob6783), [christopherbridges1](https://github.com/christopherbridges1)  
+- Discord: potatopotato2  
+- YouTube: [ChrisBridges3](https://www.youtube.com/@ChrisBridges3) 
