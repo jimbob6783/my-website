@@ -1,7 +1,7 @@
----  
-layout: page  
-title: Contact  
----  
+---
+layout: page
+title: Contact
+---
 
 # Contact  
 
@@ -21,7 +21,8 @@ If you'd like to send a message directly through this site, please fill out the 
 
 You can also follow me on social media:  
 
-- Instagram: [chris.bridges.e](https://instagram.com/chris.bridges.e)  
-- GitHub: [jimbob6783](https://github.com/jimbob6783), [christopherbridges1](https://github.com/christopherbridges1)  
-- Discord: potatopotato2  
-- YouTube: [ChrisBridges3](https://www.youtube.com/@ChrisBridges3) 
+<a href="https://instagram.com/chris.bridges.e"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" style="width:24px;height:24px;"></a>  
+<a href="https://github.com/jimbob6783"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" style="width:24px;height:24px;"></a>  
+<a href="https://github.com/christopherbridges1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" style="width:24px;height:24px;"></a>  
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" style="width:24px;height:24px;"> potatopotato2</span>  
+<a href="https://www.youtube.com/@ChrisBridges3"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" alt="YouTube" style="width:24px;height:24px;"></a>
